@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94144478-84c0-48ab-bb45-23a7a852d8dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/CreditCardLandingPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/CreditCardLandingPageTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="94144478-84c0-48ab-bb45-23a7a852d8dc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/CreditCardLandingPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-442">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="272">
+              <caret line="135" column="67" lean-forward="true" selection-start-line="135" selection-start-column="67" selection-end-line="135" selection-end-column="67" />
               <folding>
                 <element signature="e#6808#6809#0" expanded="true" />
                 <element signature="e#6837#6838#0" expanded="true" />
@@ -193,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1993" />
     <option name="y" value="-21" />
     <option name="width" value="1936" />
@@ -273,7 +270,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/calvi/IdeaProjects/testCreditCardsSite/src/test/java/tests/CreditCardLandingPage.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541440490043" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541440745017" />
     <property name="last_opened_file_path" value="C:/selenium/client-combined-3.14.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -445,7 +442,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -655,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/CreditCardLandingPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="272">
+          <caret line="135" column="67" lean-forward="true" selection-start-line="135" selection-start-column="67" selection-end-line="135" selection-end-column="67" />
           <folding>
             <element signature="e#6808#6809#0" expanded="true" />
             <element signature="e#6837#6838#0" expanded="true" />
