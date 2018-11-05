@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test parallel="tests" name="IETest(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="tests.CreditCardLandingPage">
+        <methods>
+          <include name="startDriver"/>
+          <include name="verifyNavBarItemHoverAndLinks"/>
+          <include name="shutDownDriver"/>
+        </methods>
+      </class> <!-- tests.CreditCardLandingPage -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+  <test parallel="tests" name="FirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="tests.CreditCardLandingPage">
+        <methods>
+          <include name="resizeSmallerWindow"/>
+          <include name="startDriver"/>
+          <include name="verifyNavBarItemHoverAndLinks"/>
+          <include name="verifyCreditScoreButtonsAndDropdown"/>
+          <include name="shutDownDriver"/>
+        </methods>
+      </class> <!-- tests.CreditCardLandingPage -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
