@@ -16,5 +16,5 @@ The automated test scripts in this repo can be run as follows:
 
 
 Enjoy! 
-Calvin 
+- Calvin 
 
