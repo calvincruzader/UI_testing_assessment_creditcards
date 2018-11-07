@@ -2,7 +2,7 @@
 
 Hello! 
 
-This is a fledgeling, multi-browser test suite for the URL https://www.creditcards.com/
+This is a multi-browser test suite for the URL https://www.creditcards.com/
 
 The test plan for the test cases is in a .pdf in the /test_plan/ directory.
 
